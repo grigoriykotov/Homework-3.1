@@ -11,8 +11,7 @@
 ## Описание процесса тестирования
 
 
-В качестве тестовых данных использовались данные:
-
+<В качестве тестовых данных использовались данные:>
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/README.md
 Задача №1 - Credit Card Number Validator
 Данные банковских карт взяты с ресурса:
